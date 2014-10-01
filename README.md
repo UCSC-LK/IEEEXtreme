@@ -1,4 +1,4 @@
 IEEEXtreme
 ==========
 
-Code templates needed from IEEEXtreme
+Code templates needed for IEEEXtreme
