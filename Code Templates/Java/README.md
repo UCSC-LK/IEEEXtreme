@@ -8,6 +8,7 @@ Graph Algorithms
 * Dijkstra's Shortest Path
 * Breadth First Search
 * Depth First Search
+* A Star Shortest Path
 
 General Algorithms
 ------------------
